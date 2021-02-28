@@ -17,7 +17,10 @@
 #### 逻辑回归2-案例：用逻辑回归制作评分卡
 #### 聚类算法KMeans
 #### 聚类算法案例：聚类算法用于降维，KMeans的矢量量化应用
+#### 支持向量机SVM（上）
 
 
+#### 深度学习入门：sklearn中的神经网络（注：https://blog.csdn.net/hhhmonkey/article/details/113526935）
 
-#### 深度学习入门：sklearn中的神经网络
+
+**附加学习：Python爬虫基础-莫烦教学**
