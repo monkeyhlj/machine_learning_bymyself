@@ -18,7 +18,7 @@
 #### 聚类算法KMeans
 #### 聚类算法案例：聚类算法用于降维，KMeans的矢量量化应用
 #### 支持向量机SVM（上）
-
+#### 支持向量机SVM（下）
 
 #### 深度学习入门：sklearn中的神经网络（注：https://blog.csdn.net/hhhmonkey/article/details/113526935）
 
